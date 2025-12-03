@@ -1,8 +1,8 @@
 {
   "showDialog": true,
   "appVersionCode": 1.2,
-  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
-  "updateButtonText": "Update",
+  "messageText": "Hallo bosquu👋,Mohon maaf atas ketidak nyaman nya,Untuk saat ini masih ada gangguan ya silahkan tunggu berapa saat",
+  
   "updateButtonLink": "https://google.com",
   "updateButtonGradientStartColor": "#1E88E5",
   "updateButtonGradientEndColor": "#64B5F6",
