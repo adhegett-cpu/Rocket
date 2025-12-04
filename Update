@@ -2,7 +2,7 @@
   "showDialog": true,
   "appVersionCode": 1.2,
   "messageText": "Hallo bosquu👋,Mohon maaf atas ketidak nyaman nya,Untuk saat ini masih ada gangguan ya silahkan tunggu berapa saat",
-  
+  "updateButtonText": "Update",
   "updateButtonLink": "https://google.com",
   "updateButtonGradientStartColor": "#1E88E5",
   "updateButtonGradientEndColor": "#64B5F6",
