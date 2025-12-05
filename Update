@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "appVersionCode": 1.0,
-  "messageText": "MASIH ADA GANGGUAN",
+  "messageText": "MASIH ADA GANGGUAN BOS",
   "updateButtonText": "Update",
   "updateButtonLink": "https://google.com",
   "updateButtonGradientStartColor": "#1E88E5",
