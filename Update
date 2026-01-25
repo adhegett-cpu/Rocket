@@ -1,9 +1,9 @@
 {
   "showDialog": true,
-  "appVersionCode": ,
-  "messageText": "Hallo Sahabatku Semua,Sekedar Informasi Untuk Aplikasi Masih Ada Perbaikan Ya Silahkan Tunggu Tidak Lama Lagi Aplikasi Akan Bisa Digunakan .",
+  "appVersionCode":382 ,
+  "messageText": "Hallo Pengguna RealTalk Indonesia . Update Aplikasi Untuk Versi Terbaru Sudah Ready Silahkan Update Ya Klik Update ,Download Aplikasi Dan Langsung Install Tanpa Menghapus Aplikasi Sebelumnya Untuk Mengindari Kehilangan Akun Sebelumnya..",
   "updateButtonText": "Update",
-  "updateButtonLink": "https://google.com",
+  "updateButtonLink": "https://www.mediafire.com/file/oosc53qyszolzfh/REALTALK_FINAL_V2%25F0%259F%2594%25A5.apk/file",
   "updateButtonGradientStartColor": "#1E88E5",
   "updateButtonGradientEndColor": "#64B5F6",
   "cancelButtonText": "Cancel",
